@@ -1,0 +1,10 @@
+.forms-and-articles a:hover,
+.forms-and-articles a:focus {
+  color: #007bff;
+  cursor: pointer;
+}
+
+
+.content-section {
+  margin-bottom: 2rem;
+}
