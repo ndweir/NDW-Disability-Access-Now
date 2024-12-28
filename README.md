@@ -69,7 +69,7 @@ Before you get started, make sure you have the following software installed on y
 
 Once everything is installed and running, it should open in your default browser - if not, navigate to http://localhost:5173/#/.
 
-[**Live Demo:**](https://youtu.be/M96dghBqQZE?si=mbdJn6fNlXD1T5Gm)
+[**Watch Live Demo**](https://youtu.be/M96dghBqQZE?si=mbdJn6fNlXD1T5Gm)
 
 ## Deployment
 
